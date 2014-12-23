@@ -156,7 +156,7 @@ Esta posição é para atuar como DevOps num dos times responsáveis por manter 
 * Conhecimentos de testes unitários, aceitação, mocks, Selenium, etc;
 
 ### Desenvolvimento Webmedia (1 vaga)
-Esta posição é para trabalhar em um dos times de desenvolvimento que cuidam da plataforma e dos produtos de vídeos da (globo.com)[http://www.globo.com/]. Estamos organizados em times pequenos, multi-disciplinares e autônomos, e nós trabalhamos com as mais diversas linguagens de programação (Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o (globo.tv)[http://globotv.globo.com] e o (Globosat Play)[http://globosatplay.com.br].
+Esta posição é para trabalhar em um dos times de desenvolvimento que cuidam da plataforma e dos produtos de vídeos da [globo.com](http://www.globo.com/). Estamos organizados em times pequenos, multi-disciplinares e autônomos, e nós trabalhamos com as mais diversas linguagens de programação (Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o [globo.tv](http://globotv.globo.com) e o [Globosat Play](http://globosatplay.com.br).
 
 **Must Have:**
 * Ser apaixonado por desenvolvimento e tecnologia;
