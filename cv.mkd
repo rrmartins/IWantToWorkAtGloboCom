@@ -61,4 +61,4 @@ blog: http://rrmartins.com
 
 Skype: rr_martinsj
 
-Na R7, um dos principais projetos que trabalhei dentre todos, foi o novo encoder de videos e audio, usando Ruby 2.1.2, Rack 1.6.0 para algumas aplicações e Sinatra 1.4.5 para outras, usando FFMPEG 2.2.1, trabalhei na construção da gem r7streamio_ffmpeg, esta que faz a interface com os comandos do FFMPEG e os executam. Dentre outros projetos, foi trabalhado com NodeJS, Python, Ruby, Perl, Go
+Experiencia com FFMPEG. Criando aplicações em Ruby 2.1.2, Rack 1.6.0 e Sinatra 1.4.5, usando FFMPEG 2.2.1, trabalhei na construção da gem r7streamio_ffmpeg, esta que faz a interface com os comandos do FFMPEG.
