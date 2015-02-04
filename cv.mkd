@@ -1,19 +1,64 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Área de Webmedia
+* Desenvolvimento Webmedia
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Meu e-mail:
+---------
+rodrigo@rrmartins.com
 
-CV
-==
+Linguagens:
+---------
+	- Ruby, Python, PHP, JAVA, JavaScript, NodeJS, GoLang.
 
-[Preencha aqui o seu cv]
+Experiencia com:
+---------
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+	- Ruby, Python, JRuby, PHP, JAVA, JSP, Oracle, SqlServer, Scrum, XP, Entrega Continua, BDD, TDD.
+	- MongoBD, ChefClient, GoLang, ffmpeg, libav.
+
+Conhecimento básicos com:
+---------
+	
+	- Erlang, Elixir, Perl
+
+Frameworks:
+---------
+	
+	- Rails, Django, ChicagoBoss.
+
+Leituras Tecnicas:
+---------
+
+- FJ-11 | JAVA E ORIENTAÇÃO A OBJETOS  (CAELUM) - BR
+- THE RUBY PROGRAMMING LANGUAGE (AUTORES: DAVID FLANAGAN, YUKIHIRO MATSUMOTO)
+- PYTHON PARA DESENVOLVEDORES – 2ª ED. (Autor: LUIZ EDUARDO BORGES) - BR
+- Rails 3 – O Basico (Autor: Clovis Carneiro Jr. E Rida Al Barazi)
+- Code Complete: A practical handbook of software construction (Autor: Steve McConnell)
+- Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)
+- The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
+- Domain Specific Languages (Martin Fowler with Rebecca Parsons)
+
+Conhecimentos Adicionais:
+---------
+
+- Conhecimento e experiência com Orientação a Objetos, Design Pattern, Java, PHP.
+- Conhecimento de Hibernate com Java, Desenvolvimento Mobile (Android), Ruby, Rails, Python, Django e SCRUM
+- CURSO: WELCOME TO THE DJANGO – COM HENRIQUE BASTOS
+- CURSO: IMERSÃO AO RUBY ON RAILS – FLEXA IT - BR
+- GoLang, Erlang
+
+Linkedin: http://www.linkedin.com/in/rrmartins
+
+github: http://www.github.com/rrmartins
+
+twitter: https://twitter.com/rr_martins
+
+Facebook: http://www.facebook.com/rr.martins.j
+
+blog: http://rrmartins.com
+
+Skype: rr_martinsj
+
+Na R7, um dos principais projetos que trabalhei dentre todos, foi o novo encoder de videos e audio, usando Ruby 2.1.2, Rack 1.6.0 para algumas aplicações e Sinatra 1.4.5 para outras, usando FFMPEG 2.2.1, trabalhei na construção da gem r7streamio_ffmpeg, esta que faz a interface com os comandos do FFMPEG e os executam. Dentre outros projetos, foi trabalhado com NodeJS, Python, Ruby, Perl, Go
